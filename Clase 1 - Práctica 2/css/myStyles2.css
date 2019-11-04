@@ -1,0 +1,257 @@
+
+/*body{
+  background-image: url(../img/emilia-home.jpg);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: right top;
+
+  }*/
+
+  a{
+    text-decoration: none;
+  }
+
+  .derecha{
+    background-image: url(../img/emilia-home.jpg);
+    background-size: 1000px 625px;
+    background-repeat: no-repeat;
+    background-position: right top;
+  }
+
+  .derecha2{
+    background-image: url(../img/emilia-about.jpg);
+    background-size: 1000px 625px;
+    background-repeat: no-repeat;
+    background-position: right top;
+  }
+
+  .izquierda{
+    font-family: Arial;
+    font-size: 12px;
+    line-height: 20px;
+    margin-top: 50px;
+    margin-left: 80px;
+  }
+
+  .izquierda2{
+    font-family: Arial;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 55px;
+    margin-left: 80px;
+  }
+
+  .logos{
+    width: 120px;
+    height: 30px;
+    margin-left: 80px;
+    overflow: hidden;
+  }
+
+  .logos2{
+    width: 120px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 1230px;
+    overflow: hidden;
+  }
+
+  .logos3{
+    width: 120px;
+    height: 25px;
+    margin-top: 40px;
+    margin-left: 1130px;
+
+  }
+
+  #twitter{
+    background-image: url(../icons/twitterLogo.jpg);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    float: left;
+  }
+
+  #fb{
+    background-image: url(../icons/facebookLogo.jpg);
+    background-size: 18px;
+    background-repeat: no-repeat;
+    float: left;
+  }
+
+  #spotify{
+    background-image: url(../icons/spotifyLogo.jpg);
+    background-size: 22px;
+    background-repeat: no-repeat;
+    float: left;
+  }
+
+  #apple{
+    background-image: url(../icons/appleLogo.jpg);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    float: left;
+  }
+
+  #amazon{
+    background-image: url(../icons/amazonLogo.jpg);
+    background-size: 18px;
+    background-repeat: no-repeat;
+    float: left;
+  }
+
+  #instagram{
+    background-image: url(../icons/instagramLogo.jpg);
+    background-size: 20px;
+    background-repeat: no-repeat;
+  }
+
+  .emilia{
+    font-family: Arial;
+    font-size: 28px;
+    margin-top: 100px;
+    margin-left: 100px;
+  }
+
+  .caja{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 1340px;
+    height: 65px;
+    float: left;
+    margin-top: 160px;
+  }
+
+  .caja2{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 1340px;
+    height: 50px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 5px;
+  }
+
+  .caja3{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 90%;
+    height: 65px;
+    float: left;
+    margin-top: 60px;
+  }
+
+  .twist{
+    font-family: Arial;
+    font-size: 60px;
+    margin-left: 35px;
+  }
+
+  #tit{
+    font-family: Arial;
+    font-size: 21px;
+    color: #0080519c;
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+
+  #sub{
+    font-family: Arial;
+    font-size: 10px;
+    color: #0080519c;
+    margin-left: 100px;
+  }
+
+  .menu-derecha3{
+    background-image: url(../img/emilia-music-top.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 220px;
+    margin-left: 3%;
+    overflow: hidden;
+  }
+
+  .menu-der{
+    width: 100%;
+    font-family: Arial;
+    margin-left: 960px;
+    margin-top: 25px;
+  }
+
+  .menu-derecha{
+    width: 100%;
+    font-family: Arial;
+    margin-left: 1060px;
+    padding-top: 18px;
+  }
+
+  .music{
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: 3%;
+    padding-top: 30px;
+  }
+
+  .directLinks{
+    font-family: Arial;
+    font-size: 12px;
+    margin-left: 3%;
+    padding-top: 40px;
+  }
+
+  .album{
+    font-family: Arial;
+    font-size: 26px;
+    font-weight: bold;
+    margin-left: 3%;
+    padding-top: 60px;
+  }
+
+  .fotoPlayList{
+    background-image: url(../img/emilia-play-list.png);
+    background-repeat: no-repeat;
+    margin-left: 3%;
+    padding-top: 400px;
+    font-family: Arial;
+    font-size: 12px;
+    margin-left: 3%;
+  }
+
+  .videoOrganic{
+    font-family: Arial;
+    font-size: 26px;
+    font-weight: bold;
+    margin-left: 3%;
+    padding-top: 60px;
+  }
+
+  #video{
+    font-family: Arial;
+    font-size: 12px;
+    margin-left: 3%;
+  }
+
+  .weare{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 3%;
+    padding-top: 60px;
+  }
+
+  .map{
+    width: 100%;
+    height: 450px;
+    border: solid 1px black;
+  }
+
+  #pUno{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    color: #0080008a;
+    margin-left: 3%;
+  }
+
+  #pDos{
+    font-family: Arial;
+    font-size: 12px;
+    margin-left: 3%;
+  }
