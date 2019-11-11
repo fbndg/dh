@@ -1,0 +1,131 @@
+
+body{
+  width: 960px;
+  overflow: hidden;
+}
+
+header{
+  margin-left: 40px;
+  border-bottom: solid 1px #7e867e;
+}
+
+h1, h2{
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+a{
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav{
+  font-family: Arial;
+  font-size: 14px;
+  color: #7e867e;
+  padding-top: 15px;
+  margin-left: 40px;
+  float: left;
+  line-height: 20px;
+}
+
+main{
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  width: 610px;
+  float: right;
+  padding: 15px;
+  border-left: solid 1px #7e867e;
+}
+
+section{
+  overflow: hidden;
+}
+
+#foto1{
+  background-image: url(../img/foto-entradas.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  float: right;
+}
+
+#foto2{
+  background-image: url(../img/foto-ppal.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  float: right;
+}
+
+#foto3{
+  background-image: url(../img/foto-postre.jpg);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 200px;
+  float: right;
+}
+
+h3{
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.platos{
+  font-family: Arial;
+  font-size: 14px;
+  color: #7e867e;
+}
+
+.consulta{
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  padding-top: 15px;
+  margin-left: 40px;
+}
+
+#enviar{
+  background-color: orange;
+  width: 200px;
+  height: 30px;
+  border: solid 1px orange;
+  border-radius: 8px;
+  font-family: Arial;
+  font-size: 14px;
+  color: white;
+  font-weight: bold;
+}
+
+#borrar{
+  background-color: white;
+  width: 200px;
+  height: 30px;
+  border: solid 1px orange;
+  border-radius: 8px;
+  font-family: Arial;
+  font-size: 14px;
+  color: orange;
+  font-weight: bold;
+}
+
+footer{
+  background-image: url(../img/logo-web.png);
+  background-size: 250px;
+  background-repeat: no-repeat;
+  background-color: #c8d2c8;
+  padding: 20px;
+  width: 91,66%;
+  height: 100px;
+  margin-left: 40px;
+  margin-top: 767px;
+  font-family: Arial;
+  color: white;
+  font-size: 14px;
+  text-align: right;
+}

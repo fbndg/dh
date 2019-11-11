@@ -1,0 +1,127 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+.contenedor{
+  width: 960px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+header{
+  padding-bottom: 20px;
+  border-bottom: solid 1px black;
+}
+
+h1, h2{
+  margin-left: 20px;
+  padding: 15px;
+  color: #000;
+}
+
+.nav{
+  width:300px;
+  height: 700px;
+  margin: 10px 30px 10px 10px;
+  padding: 15px;
+  float: left;
+}
+
+nav{
+  float: left;
+  margin-bottom: 10px;
+}
+
+li{
+
+  list-style:none;
+  padding: 10px;
+}
+
+a{
+  color: #ccc;
+  text-decoration: none;
+}
+
+.main{
+  overflow: hidden;
+}
+
+main{
+  width: 590px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  height: 750px;
+  border-left: solid 1px black;
+  overflow: hidden;
+}
+
+.section{
+  overflow: hidden;
+}
+
+.articles{
+  overflow: hidden;
+}
+
+.entrada{
+  background-image: url('../img/foto-entradas.jpg');
+  background-repeat: no-repeat;
+  width: 40%;
+  margin-top: 60px;
+  margin-right: 30px;
+  float: right;
+}
+
+h3{
+  padding-top: 10px;
+  padding-left: 20px;
+  color: #000;
+}
+
+p{
+  margin-top: 10px;
+  margin-left: 35px;
+  font-size: 12px;
+  line-height: 25px;
+  padding: 5px;
+}
+
+.volver{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.volver a{
+  color: #000;
+}
+
+footer{
+  background-color: #ccc;
+  width: 919px;
+  height: 200px;
+  overflow: hidden;
+  padding: 20px;
+}
+
+footer img{
+  width: 300px;
+  margin: 30px 20px 20px;
+}
+
+.contacto{
+  color: #fff;
+  float: right;
+  margin: 70px 20px 0px;
+  line-height: 30px;
+}
+
+.contacto a{
+  color: #fff;
+}
