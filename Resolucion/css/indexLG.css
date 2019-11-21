@@ -1,0 +1,293 @@
+
+body{
+  font-family: sans-serif;
+}
+
+.container{
+  width: 100%;
+  margin: 0px auto;
+}
+
+/* HEADER */
+
+header{
+  width: 100%;
+  height: 80px;
+  background-color: #2C3E50; /* azul */
+}
+
+header h3{
+  color: #fff;
+  text-transform: uppercase;
+  padding-left: 50px;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+/* NAV */
+
+.nav{
+  overflow: hidden;
+  display: inline;
+}
+
+.ul{
+  float: right;
+  display: inline;
+  overflow: hidden;
+  list-style: none;
+}
+
+.li{
+  float: left;
+  display: inline;
+  color: #fff;
+  text-transform: uppercase;
+  padding-top: 15px;
+  padding-right: 20px;
+  font-weight: bold;
+}
+
+/* 1* SECTION FREELANCE PORTFOLIO */
+
+.freePort{
+  width: 100%;
+  height: 700px;
+  background-color: #18BC9C; /* verde */
+}
+
+.fotoP{
+  margin: 0px auto;
+  padding-top: 80px;
+  display: block;
+}
+
+.freePort h1{
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 40px;
+}
+
+.freePort p{
+  color: #fff;
+  text-align: center;
+  font-size: 28px;
+  text-transform: capitalize;
+}
+
+/* 2* SECTION PORTFOLIO */
+
+.portfolio{
+  width: 100%;
+  height: 700px;
+}
+
+.portfolio h1{
+  color: #000;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 28px;
+  padding-top: 40px;
+}
+
+.estrellaN{
+  color: #000;
+  text-align: center;
+  font-size: 28px;
+}
+
+.fotosPortfolio{
+  overflow: hidden;
+}
+
+.uno, .dos{
+  margin-right: 5%;
+  padding-bottom: 15px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.foto1, .foto4 {
+  margin-left: 2%;
+  width: 30%;
+  float: left;
+  padding-right: 2%;
+}
+
+.foto2, .foto5{
+  width: 30%;
+  float: left;
+}
+
+.foto3, .foto6{
+  width: 30%;
+  float: right;
+  padding-left: 2%;
+  margin-right: 2%;
+}
+
+/* 3* SECTION ABOUT */
+
+.about{
+  width: 100%;
+  height: 500px;
+  background-color: #18BC9C; /* verde */
+  margin-top: 80px;
+  overflow: hidden;
+}
+
+.about h1{
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 60px;
+}
+
+.estrellaB{
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+}
+
+.txt1{
+  float: left;
+  width: 25%;
+  padding-left: 23%;
+  color: #fff;
+  line-height: 22px;
+}
+
+.txt2{
+  float: right;
+  width: 25%;
+  padding-right: 23%;
+  color: #fff;
+  line-height: 22px;
+}
+
+.download{
+  width: 200px;
+  height: 50px;
+  border: solid 1px #fff;
+  border-radius: 5px;
+  margin: 150px auto;
+}
+
+.now{
+  padding-left: 60px;
+  color: #fff;
+  text-transform: capitalize;
+}
+
+.contactMe{
+  width: 100%;
+  height: 600px;
+}
+
+.contactMe h1{
+  color: #000;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.formu p{
+padding-left: 60px;
+text-transform: capitalize;
+}
+
+.send{
+  width: 100px;
+  height: 50px;
+  background-color: #18BC9C; /* verde */
+  border-radius: 5px;
+  margin: 80px 60px;
+}
+
+.send p{
+  color: #fff;
+  text-align: center;
+  text-transform: capitalize;
+  padding-top: 15px;
+}
+
+/* 5* SECTION LOCATION */
+
+.location{
+  width: 100%;
+  height: 200px;
+  background-color: #2C3E50; /* azul */
+  overflow: hidden;
+}
+
+.locat{
+  margin-left: 2%;
+  width: 20%;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 30px 30px;
+  float: left;
+  border: solid 1px #fff;
+}
+
+.locat p{
+  text-transform: capitalize;  
+}
+
+.web{
+  width: 40%;
+  float: left;
+  border: solid 1px #fff;
+}
+
+.web h1{
+  text-align: center;
+  padding: 30px 100px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.logos{
+  width: 5px;
+  height: 20px;
+  margin: -30px 59px;
+  text-align: center;
+  padding-right: 15px;
+  border-radius: 50%;
+  border: solid 1px #fff;
+  float: left;
+  display: inline-block;
+}
+
+.freelancer{
+  padding-top: 30px;
+  width: 30%;
+  color: #fff;
+  margin-right: 2%;
+  text-transform: none;
+  text-align: center;
+  float: left;
+  border: solid 1px #fff;
+}
+
+.freelancer h1{
+  text-transform: uppercase;
+}
+
+/* FOOTER */
+
+footer{
+  width: 100%;
+  height: 40px;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  text-transform: capitalize;
+  padding-top: 30px;
+}
+
+span{
+  color: #18BC9C; /* verde */
+}

@@ -1,0 +1,36 @@
+
+body{
+  font-family: sans-serif;
+}
+
+.container{
+  width: 100%;
+  margin: 0 auto;
+}
+
+header{
+
+}
+
+.fondo{
+  width: 100%;
+  height: 200px;
+  background-color: #2C3E50; /* azul */
+  overflow: hidden;
+}
+
+h1{
+  color: #fff;
+  padding: 30px 30px;
+  text-transform: uppercase;
+  display: block;
+}
+
+.navBar{
+  width: 8%;
+  height: 50px;
+  background-color: #18BC9C; /* verde */
+  border-radius: 5px;
+  float: left;
+  margin-left: 30px;
+}

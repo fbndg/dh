@@ -1,0 +1,249 @@
+
+.container{
+  width: 100%;
+  margin: 0px auto;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+/* HEADER */
+
+header{
+  width: 100%;
+  height: 80px;
+  background-color: #2C3E50; /* azul */
+  overflow: hidden;
+}
+
+.freelance{
+  color: #fff;
+  text-transform: uppercase;
+  padding: 10px 50px;
+
+}
+
+.freelance h3{
+  display: inline;
+}
+
+/* NAV */
+
+.menu{
+  width: 100px;
+  height: 50px;
+  background-color: #18BC9C; /* verde */
+  border-radius: 10px;
+  float: right;
+  margin-top: 5px;
+}
+
+.menu p{
+  color: #fff;
+  text-transform: uppercase;
+  padding-left: 10px;
+}
+
+/* 1* SECTION - FREELANCE PORTFOLIO */
+
+.profile{
+  width: 100%;
+  height: 700px;
+  background-color: #18BC9C; /* verde */
+}
+
+.fotoPerfil{
+  display: block;
+  margin: auto;
+  padding-top: 50px;
+}
+
+.tit{
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.estrellaBlanca{
+  color: #fff;
+  font-size: 40px;
+  text-align: center;
+}
+
+.experience{
+  color: #fff;
+  font-size: 20px;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+/* 2* SECTION - PORTFOLIO */
+
+.portfolio{
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+}
+
+.tit2{
+  padding-top: 40px;
+  color: #000;
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.estrellaNegra{
+  color: #000;
+  font-size: 40px;
+  text-align: center;
+}
+
+.fotoPortfolio{
+  width: 100%;
+  margin: auto;
+  display: block;
+  float: left;
+}
+
+.fotoPortfolio{
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  float: left;
+  padding-bottom: 10px;
+}
+
+/* 3* SECTION - ABOUT */
+
+.container{
+  width: 100%;
+  margin: 0px auto;
+  overflow: hidden;
+}
+
+.about{
+  width: 100%;
+  height: 700px;
+  background-color: #18BC9C; /* verde */
+}
+
+.about p{
+  padding-top: 70px;
+}
+
+.parrafo{
+  color: #fff;
+}
+
+.download{
+  width: 200px;
+  height: 60px;
+  border: solid 1px #fff;
+  border-radius: 5px;
+  margin: 20px auto;
+}
+
+.dowNow{
+  color: #fff;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+/* 4* SECTION - CONTACT ME */
+
+.contactMe{
+  width: 100%;
+  height: 700px;
+}
+
+.form{
+  width: 100%;
+  height: 100px;
+}
+
+.form p, .send p{
+  color: #ccc;
+  text-transform: capitalize;
+  font-size: 16px;
+  text-align: left;
+  margin-left: 100px;
+  line-height: 60px;
+}
+
+.send{
+  width: 100px;
+  height: 50px;
+  background-color: #18BC9C; /* verde */
+  border-radius: 5px;
+  margin-left: 100px;
+}
+
+.send p{
+  color: red;
+}
+
+/* 5* SECTION - LOCATION */
+
+.container2{
+  width: 100%;
+  margin: 0px auto;
+  overflow: hidden;
+  padding-top: 40px;
+}
+
+.location{
+  width: 100%;
+  height: 300px;
+  background-color: #2C3E50; /* azul */
+}
+
+.textos, .textos2{
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  text-transform: capitalize;
+  line-height: 26px;
+}
+
+.titulos{
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.locat{
+    float: left;
+    padding-left: 40px;
+}
+
+.web{
+  float: left;
+  padding-left: 200px;
+}
+
+.freelancer{
+
+  padding-left: 350px;
+}
+
+.verde{
+  color: #18BC9C; /* verde */
+}
+
+footer{
+  width: 100%;
+  height: 60px;
+  background-color: #000;
+}
+
+.foot{
+  color: #fff;
+  text-align: center;
+  padding-top: 5px;
+}

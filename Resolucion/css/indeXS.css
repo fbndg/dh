@@ -1,0 +1,259 @@
+
+.container{
+  width: 0px auto;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+/* HEADER */
+
+header{
+  background-color: #2C3E50; /* azul */
+  height: 140px;
+}
+
+header h3{
+  color: #fff;
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 24px;
+  padding-left: 15px;
+}
+
+/* NAV */
+
+.menu{
+  width: 100px;
+  height: 50px;
+  background-color: #18BC9C; /* verde */
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+.menu p{
+  color: #fff;
+  text-transform: uppercase;
+  padding-top: 15px;
+  padding-left: 15px;
+  font-weight: bold;
+}
+
+/* MAIN */
+/* 1* SECTION FREELANCE PORTFOLIO */
+
+.freelance{
+  width: 100%;
+  height: 800px;
+  background-color: #18BC9C; /* verde */
+}
+
+.fotoFreelance{
+  display: block;
+  text-align: center;
+  padding-top: 60px;
+}
+
+.fotoFreelance p{
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 60px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.estrella p{
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+}
+
+.experiencia p{
+  text-align: center;
+  color: #fff;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+
+/* 2* SECTION PORTFOLIO */
+
+.portfolio h3{
+  color: #000;
+  padding-top: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+}
+
+.estrella2 p{
+  text-align: center;
+  color: #000;
+  font-size: 30px;
+}
+
+.fotoPortfolio img{
+  width: 90%;
+  display: block;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+/* 3* SECTION ABOUT */
+
+.about{
+  width: 100%;
+  height: 700px;
+  background-color: #18BC9C; /* verde */
+  margin-top: 70px;
+
+}
+
+.about h3{
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 60px;
+  padding-top: 70px;
+}
+
+.about, .estrella1{
+  color: #fff;
+text-align: center;
+  font-size: 30px;
+}
+
+.about p{
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.download{
+  width: 50%;
+  height: 30px;
+  border: solid 3px #fff;
+  margin: 40px auto;
+  padding-top: 30px;
+  border-radius: 5px;
+
+}
+
+.download p{
+  text-transform: capitalize;
+  text-align: center;
+  margin: 0px auto;
+}
+
+/* 4* SECTION CONTACT ME */
+
+.contactMe{
+  width: 100%;
+  height: 500px;
+  background-color: #fff;
+}
+
+.contactMe h3{
+  font-size: 60px;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 70px;
+}
+
+.container, .contactMe, .estrella p{
+  color: #000;
+  text-align: center;
+}
+
+.name p{
+  color: #ccc;
+  text-transform: capitalize;
+  font-size: 16px;
+  line-height: 14px;
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 100px;
+}
+
+.send{
+  width: 100px;
+  height: 50px;
+  background-color: #18BC9C; /* verde */
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+.send p{
+  color: #fff;
+  text-transform: uppercase;
+  margin-top: 120px;
+
+  padding-top: 15px;
+  padding-left: 5x;
+  font-weight: bold;
+}
+
+/* 5* SECTION LOCATION */
+
+.location{
+  width: 100%;
+  height: 800px;
+  background-color: #2C3E50; /* azul */
+  margin-top: 300px;
+}
+
+.location h3{
+  color:#fff;
+  text-transform: uppercase;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.dos h3{
+  margin-top: 10px;
+}
+
+.location p{
+  color:#fff;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.redes{
+  overflow: hidden;
+}
+
+.logos{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: solid 2px #fff;
+  float: left;
+}
+
+span{
+  color: #18BC9C; /* verde */
+}
+
+footer{
+  width: 100%;
+  height: 70px;
+  background-color: #000;
+}
+
+.copy{
+  color:#fff;
+  text-transform: capitalize;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 5px;
+}
+
+/* FOOTER */
