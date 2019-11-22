@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/indeXS.css">
+    <title>inicio</title>
+  </head>
+  <body>
+<div class="container">
+
+<header>
+<h3>freelance portfolio</h3>
+  <nav class="menu">
+    <p>menu</p>
+  </nav>
+</header>
+
+<main>
+  <div class="container">
+  <section class="freelance">
+<div class="fotoFreelance">
+  <img src="images/profile.png" alt="Foto personal" class="fotoPersonal">
+  <p>freelance<br>portfolio</p>
+</div>
+
+<div class="estrella">
+  <p>------- * -------</p>
+</div>
+
+<div class="experiencia">
+  <p>web developer - graphic artist<br>- user experience designer </p>
+</div>
+  </section>
+  </div>
+
+<div class="container">
+  <section class="portfolio">
+<h3>portfolio</h3>
+<div class="estrella2">
+  <p>------- * -------</p>
+</div>
+
+<div class="fotoPortfolio">
+  <img src="images/cabin.png" alt="Foto1">
+  <img src="images/cake.png" alt="Foto2">
+  <img src="images/circus.png" alt="Foto3">
+  <img src="images/game.png" alt="Foto4">
+  <img src="images/safe.png" alt="Foto5">
+  <img src="images/submarine.png" alt="Foto6">
+</div>
+  </section>
+</div>
+
+<div class="container">
+  <section class="about">
+    <h3>about</h3>
+    <div class="estrellaA">
+      <p class="estrella1">------- * -------</p>
+    </div>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+
+<div class="download">
+  <p>download now!</p>
+</div>
+
+  </section>
+</div>
+
+<div class="container">
+  <section class="contactMe">
+    <h3>contact me</h3>
+    <div class="estrella">
+      <p>------- * -------</p>
+    </div>
+
+<div class="name">
+  <p>name</p><br>
+  <p>email address</p><br>
+  <p>phone number</p><br>
+  <p>message</p>
+</div>
+
+<div class="send">
+  <p>send</p>
+</div>
+</section>
+</div>
+
+<div class="container">
+  <section class="location">
+<h3>location</h3>
+<p>2215 John Daniel Drive<br>Clark, MO 65243</p>
+<h3 class="dos">around the web</h3>
+
+<div class="redes">
+  <div class="logos"></div>
+    <div class="logos"></div>
+      <div class="logos"></div>
+        <div class="logos"></div>
+</div>
+
+<h3 class="dos">about the freelancer</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa nihil beatae dolorum eveniet, blanditiis unde nulla <span>voluptates? Eligendi, doloribus, placeat!</span></p>
+</div>
+ </section>
+</div>
+</main>
+
+<footer>
+<div class="copy">
+<p>Copyrigth &copyYour website 2019</p>
+</div>
+</footer>
+</div>
+  </body>
+</html>
